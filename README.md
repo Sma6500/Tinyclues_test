@@ -17,7 +17,7 @@ that would allow the following improvements.
 
 In order to fullfill the terms' above I reorganized the code.
 
-- I built an absract class : Recommendation. The inherited classes Recommendation_cat and Recommendation_??? are two differents way to give some recommandation for a given user.
+- I built an absract class : Recommendation. The inherited classes Recommendation_cat and Recommendation_profile are two differents way to give some recommandation for a given user.
 - In the utils directory I built the movies.py file with all the function allowing to process the movies' data.
 - In the test directory I built some test file in order to test and evaluate the code's performances.
 
